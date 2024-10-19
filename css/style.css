@@ -2,6 +2,11 @@ h1{
     background-color: blueviolet;
     color: #fff;
 }
+h2{
+    background-color: chartreuse;
+    color: chocolate;
+    margin: 100px 0;
+}
 p{
     margin-top: 50px;
     color:red;
